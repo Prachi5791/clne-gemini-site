@@ -1,16 +1,17 @@
 {
+  "homepage": "https://prachi5791.github.io/Gemini_clone_project/",
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prachi5791.github.io/Gemini_clone_project/",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@google/generative-ai": "^0.14.0",
