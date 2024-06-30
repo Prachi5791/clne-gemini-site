@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prachi5791.github.io/Gemini_clone_project",
+  "homepage": "https://prachi5791.github.io/Gemini_clone_project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
