@@ -1,10 +1,9 @@
 {
-  "homepage": "https://prachi5791.github.io/Gemini_clone_project/",
+  "homepage": "https://prachi5791.github.io/clne-gemini-site",
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
